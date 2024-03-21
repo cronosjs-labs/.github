@@ -1,4 +1,17 @@
-## Hi there 👋
+<div align="center">
+
+  <img alt="" src="../cronosjs-labs.png" />
+
+</div>
+
+
+### 📄 Thanks to the contributors of this project.
+
+#### Honorable mentions:
+
+- [@LZeth](https://github.com/LZeth) for the logo design.
+
+And all the people that have contributed to this project.
 
 <!--
 
